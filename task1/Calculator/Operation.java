@@ -1,0 +1,11 @@
+public enum Operation {
+    EQUAL,
+    ADDITION,
+    MULTIPLICATION,
+    SUBTRACTION,
+    DIVISION,
+    SQUARE_ROOT,
+    LOGARITHM,
+    EXPONENTIAL,
+    NONE
+}

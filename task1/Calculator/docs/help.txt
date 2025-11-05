@@ -1,0 +1,41 @@
+NEW ENIAC — User Help Manual (Updated Version)
+
+The NEW ENIAC program is a simple and intelligent console-based tool that allows you to perform two main tasks: mathematical calculations and unit conversions. It is designed for everyone — you don’t need any programming or computer background to use it.
+
+When you start the program, a menu with four options appears on the screen:
+
+Enhanced Calculator – perform mathematical operations such as addition, subtraction, multiplication, division, square root, logarithm, and exponential.
+
+Units Converter – convert values between temperature, currency, or distance units.
+
+Help – display this user guide.
+
+Exit – close the program safely.
+
+To use the Enhanced Calculator, select option 1 and follow the on-screen instructions.
+
+You will be asked to enter a number, then select an operation such as +, -, *, /, or one of the  scientific functions:
+
+sqrt for square root
+
+log for logarithm (base 10)
+
+exp for exponential (e^x)
+
+Continue entering numbers and operations as needed.
+
+When you type =, the program will display the final result.
+
+To use the Units Converter, select option 2, then choose one of the three available conversion types:
+
+Temperature (Celsius to Fahrenheit)
+
+Currency (USD to EUR)
+
+Distance (Kilometers to Miles)
+
+After selecting a type, enter the value you want to convert — the program will instantly show the result.
+
+If you enter an invalid option or an incorrect number, NEW ENIAC will detect the error and ask you to try again, ensuring smooth and safe use. To leave the program at any time, type 4 in the main menu to exit.
+
+The NEW ENIAC program is designed to be practical, reliable, and user-friendly, making calculations and conversions fast, accurate, and accessible for everyone.
