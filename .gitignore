@@ -2,3 +2,4 @@
 /task1/StudentInformationSystem/build/
 /task1/StudentInformationSystem/target/
 /task1/Calculator/
+*.class
